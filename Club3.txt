@@ -1,0 +1,6 @@
+NAME Piano Masters
+TAG Piano
+SIZE 15000
+MEETINGTIME 0 10079
+TIMECOM 0
+NOTES this is the third best club you should join

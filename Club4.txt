@@ -1,0 +1,6 @@
+NAME Anime Club
+TAG Anime
+SIZE 15000
+MEETINGTIME 0 10079
+TIMECOM 0
+NOTES this is the best club you should join
